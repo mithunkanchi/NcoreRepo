@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: au.com.asx.tests:test-lib:1.0.17.05">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/au/com/asx/tests/test-lib/1.0.17.05/test-lib-1.0.17.05.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/au/com/asx/tests/test-lib/1.0.17.05/test-lib-1.0.17.05-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/au/com/asx/tests/test-lib/1.0.17.05/test-lib-1.0.17.05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

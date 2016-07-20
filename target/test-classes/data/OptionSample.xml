@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Instrument xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <InsIdS>EAF222000C</InsIdS>
+  <LongInsIdS/>
+  <IncIdS>EAAC</IncIdS>
+  <Strike_Price>2000</Strike_Price>
+  <Traded>True</Traded>
+  <Traded_In_Click>False</Traded_In_Click>
+  <Derivative_Level>2</Derivative_Level>
+  <Upper_Level_Series>EAH22</Upper_Level_Series>
+  <Status>ACTIVE</Status>
+  <ISIN_Code/>
+  <Calculate_Dates>False</Calculate_Dates>
+  <Expiry_Date_Month>3</Expiry_Date_Month>
+  <Expiry_Date_Year>2022</Expiry_Date_Year>
+  <Expiry_Date>7/03/2022 12:00:00 AM</Expiry_Date>
+  <Effective_Expiry_Date>1/01/1970 12:00:00 AM</Effective_Expiry_Date>
+  <Last_Trade_Date>6/03/2022 12:00:00 AM</Last_Trade_Date>
+  <At_End_Of_Trading>True</At_End_Of_Trading>
+  <Last_Trade_Time>1/01/1970 12:00:00 AM</Last_Trade_Time>
+  <First_Trade_Date>20/04/2021 12:00:00 AM</First_Trade_Date>
+  <At_Start_Of_Trading>True</At_Start_Of_Trading>
+  <First_Trade_Time>1/01/1970 12:00:00 AM</First_Trade_Time>
+  <Modifier>0</Modifier>
+  <Price_Quotation_Factor>2210</Price_Quotation_Factor>
+  <Contract_Size>0</Contract_Size>
+  <Exchange_Code>36</Exchange_Code>
+  <Market_Code>13</Market_Code>
+</Instrument>

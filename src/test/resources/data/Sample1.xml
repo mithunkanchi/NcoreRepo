@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:even="http://www.thegoldensource.com/EventRaiserService.wsdl">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <even:RaiseASX_EVT_PublishTRETBatchSynchron>
+            <even:query>select xref_tbl_id, xref_tbl_row_oid, last_chg_tms,chg_ind from vw_asx_tret_since_last_publish where last_chg_tms &lt;= ? order by last_chg_tms</even:query>
+        </even:RaiseASX_EVT_PublishTRETBatchSynchron>
+    </soapenv:Body>
+</soapenv:Envelope>

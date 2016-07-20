@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: commons-httpclient:commons-httpclient:3.1.SONATYPE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1.SONATYPE/commons-httpclient-3.1.SONATYPE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1.SONATYPE/commons-httpclient-3.1.SONATYPE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1.SONATYPE/commons-httpclient-3.1.SONATYPE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
